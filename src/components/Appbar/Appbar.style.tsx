@@ -14,8 +14,6 @@ export const AppbarWrapper = styled(
       width: "100%",
       display: "flex",
       flexDirection: "row",
-    },
-    ".css-11b3ww9-MuiPaper-root-MuiAppBar-root": {
       backgroundColor: theme.palette.primary.main,
       button: {
         padding: "10px 40px",
